@@ -7,4 +7,3 @@
 number = int(input("What number?"))
 phrase = input("What phrase?")
 print(phrase * number)
-print("hell0")
